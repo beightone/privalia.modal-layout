@@ -26,10 +26,11 @@
     "history": "5",
     "typescript": "3.9.7",
     "vtex.css-handles": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.css-handles@1.0.0/public/@types/vtex.css-handles",
-    "vtex.native-types": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.native-types@0.7.5/public/@types/vtex.native-types",
-    "vtex.pixel-manager": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.pixel-manager@1.6.1/public/@types/vtex.pixel-manager",
-    "vtex.render-runtime": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.126.6/public/@types/vtex.render-runtime",
-    "vtex.responsive-values": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.responsive-values@0.4.0/public/@types/vtex.responsive-values",
+    "vtex.modal-layout": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.modal-layout@0.14.1/public/@types/vtex.modal-layout",
+    "vtex.native-types": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.native-types@0.10.1/public/@types/vtex.native-types",
+    "vtex.pixel-manager": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.pixel-manager@1.9.0/public/@types/vtex.pixel-manager",
+    "vtex.render-runtime": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.134.0/public/@types/vtex.render-runtime",
+    "vtex.responsive-values": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.responsive-values@0.4.2/public/@types/vtex.responsive-values",
     "vtex.store-icons": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.store-icons@0.18.0/public/@types/vtex.store-icons"
   },
   "version": "0.14.1"

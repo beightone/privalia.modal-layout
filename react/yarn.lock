@@ -5381,21 +5381,25 @@ verror@1.10.0:
   version "1.0.0"
   resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.css-handles@1.0.0/public/@types/vtex.css-handles#336b23ef3a9bcb2b809529ba736783acd405d081"
 
-"vtex.native-types@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.native-types@0.7.5/public/@types/vtex.native-types":
-  version "0.7.5"
-  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.native-types@0.7.5/public/@types/vtex.native-types#52d8c0b675fcdf2b6b1ca93f6a99a630519f618f"
+"vtex.modal-layout@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.modal-layout@0.14.1/public/@types/vtex.modal-layout":
+  version "0.14.1"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.modal-layout@0.14.1/public/@types/vtex.modal-layout#c25eaff0dc7ecdc1021f4d00e354b9e23749c6f4"
 
-"vtex.pixel-manager@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.pixel-manager@1.6.1/public/@types/vtex.pixel-manager":
-  version "1.6.1"
-  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.pixel-manager@1.6.1/public/@types/vtex.pixel-manager#a9cf803f14aa60290a622155fb59e5243c4197bc"
+"vtex.native-types@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.native-types@0.10.1/public/@types/vtex.native-types":
+  version "0.10.1"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.native-types@0.10.1/public/@types/vtex.native-types#7ddf7f34265f8902dfad93d3a13021108023a584"
 
-"vtex.render-runtime@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.126.6/public/@types/vtex.render-runtime":
-  version "8.126.6"
-  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.126.6/public/@types/vtex.render-runtime#78ae3da048ec823ab104425aef14e66165ed1303"
+"vtex.pixel-manager@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.pixel-manager@1.9.0/public/@types/vtex.pixel-manager":
+  version "1.9.0"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.pixel-manager@1.9.0/public/@types/vtex.pixel-manager#eb61e263c4f8024430ef1a19d28bcf608db3d481"
 
-"vtex.responsive-values@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.responsive-values@0.4.0/public/@types/vtex.responsive-values":
-  version "0.4.0"
-  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.responsive-values@0.4.0/public/@types/vtex.responsive-values#a5f5d0c7f459ec01ad5e6580d0097a01a7536489"
+"vtex.render-runtime@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.134.0/public/@types/vtex.render-runtime":
+  version "8.134.0"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.134.0/public/@types/vtex.render-runtime#ee5a73993a75e45de60ccceac1ef74ab6b9202a3"
+
+"vtex.responsive-values@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.responsive-values@0.4.2/public/@types/vtex.responsive-values":
+  version "0.4.2"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.responsive-values@0.4.2/public/@types/vtex.responsive-values#ba7b7a888e931be81d64e8348d99bd6310385ac9"
 
 "vtex.store-icons@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.store-icons@0.18.0/public/@types/vtex.store-icons":
   version "0.18.0"
