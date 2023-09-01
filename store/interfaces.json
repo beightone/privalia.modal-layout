@@ -1,25 +1,25 @@
 {
-  "privalia.modal-layout": {
+  "modal-layout": {
     "component": "Modal",
     "composition": "children"
   },
-  "privalia.modal-trigger": {
+  "modal-trigger": {
     "component": "ModalTrigger",
     "composition": "children"
   },
-  "privalia.modal-header": {
+  "modal-header": {
     "component": "ModalHeader",
     "composition": "children"
   },
-  "privalia.modal-content": {
+  "modal-content": {
     "component": "ModalContent",
     "composition": "children"
   },
-  "privalia.modal-actions": {
+  "modal-actions": {
     "component": "ModalActions",
     "composition": "children"
   },
-  "privalia.modal-actions.close": {
+  "modal-actions.close": {
     "component": "CloseButton",
     "content": {
       "$ref": "app:vtex.modal-layout#/definitions/CloseButton"
