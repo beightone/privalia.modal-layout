@@ -1,6 +1,6 @@
 {
   "vendor": "privalia",
-  "name": "modal-layout",
+  "name": "privalia.modal-layout",
   "version": "0.14.3",
   "title": "VTEX Modal Layout - Privalia",
   "description": "A React Modal component.",
