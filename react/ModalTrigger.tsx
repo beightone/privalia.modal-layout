@@ -5,6 +5,8 @@ import type { CssHandlesTypes } from 'vtex.css-handles'
 import { usePixelEventCallback } from 'vtex.pixel-manager'
 import type { PixelEventTypes } from 'vtex.pixel-manager'
 
+import { canUseDOM } from 'vtex.render-runtime'
+
 import {
   useModalDispatch,
   ModalContextProvider,
@@ -81,6 +83,10 @@ function ModalTrigger(props: Props) {
     if (dispatch) {
       dispatch({ type: 'OPEN_MODAL' })
     }
+  }
+
+  if (!canUseDOM) {
+    return null
   }
 
   if (trigger === 'click') {
